@@ -20,6 +20,7 @@ body{
 .top{
     background-image: url("/1st-web/Image/top-banner.png");
     background-repeat: no-repeat;
+    width: 100%
 }
 
 section{
